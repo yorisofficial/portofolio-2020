@@ -1,0 +1,104 @@
+.hero {
+  font-size: 35px;
+  text-align: left;
+}
+
+.active-btn {
+  border-radius: 10px;
+  background: #ECEFF4;
+  box-shadow: 8px 8px 20px 0px #97A7C3, -35px -35px 70px #ffffff;
+  color: #193566;
+  font-weight: bold;
+  border-style: none;
+  width: 150px;
+  padding: 10px 12px;
+  height: 50px;
+}
+
+.image-info {
+  max-width: 400px;
+  min-width: 280px;
+}
+
+.image-info {
+  max-width: 100%;
+}
+
+body {
+  background: #ECEFF4;
+  margin-top: 30px;
+}
+
+.text-logo {
+  margin-top: 15px;
+}
+
+.heading-port {
+  color: #193566;
+  font-weight: bold;
+  text-align: center;
+}
+
+.fab.fa-facebook {
+  border-radius: 50%;
+  background: #ECEFF4;
+  box-shadow: 8px 8px 20px 0px #97a7c3, -8px -8px 20px #ffffff;
+  border-color: rgba(255,255,255,0);
+  color: #193566;
+}
+
+.hero-logo {
+  width: 130px;
+  border-radius: 30px;
+  background: #ECEFF4;
+  box-shadow: 8px 8px 20px 0px #97a7c3, -8px -8px 20px #ffffff;
+  border-color: rgba(255,255,255,0);
+  color: #193566;
+}
+
+.heroL-image {
+  max-width: 130px;
+  padding: 20px;
+}
+
+.heading-port {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.hero-project {
+  border-radius: 30px;
+  background: #ECEFF4;
+  box-shadow: 8px 8px 20px 0px #97a7c3, -8px -8px 20px #ffffff;
+  border-color: rgba(255,255,255,0);
+  color: #193566;
+}
+
+.hero-project-img {
+  max-width: 450px;
+  max-height: 320px;
+  margin-bottom: 20px;
+}
+
+.icon-copy {
+  box-shadow: -5px -5px 16px rgb(255,255,255), 5px 5px 16px 0px #193566;
+}
+
+.social-icons {
+  color: #313437;
+  background-color: #fff;
+  text-align: center;
+  padding: 70px 0;
+}
+
+.social-icons i {
+  font-size: 32px;
+  display: inline-block;
+  margin: 0 10px;
+  width: 60px;
+  height: 60px;
+  border: 1px solid #c8ced7;
+  text-align: center;
+  line-height: 60px;
+}
+
