@@ -123,7 +123,23 @@ body {
   width: 80%;
 }
 
-.fab.fa-instagram.img-icon-info {
+.fab.fa-facebook {
+  border-radius: 50%;
+  background: #ECEFF4;
+  box-shadow: 8px 8px 20px 0px #97a7c3, -8px -8px 20px #ffffff;
+  border-color: rgba(255,255,255,0);
+  color: #193566;
+}
+
+.fab.fa-instagram {
+  border-radius: 50%;
+  background: #ECEFF4;
+  box-shadow: 8px 8px 20px 0px #97a7c3, -8px -8px 20px #ffffff;
+  border-color: rgba(255,255,255,0);
+  color: #193566;
+}
+
+.fab.fa-github {
   border-radius: 50%;
   background: #ECEFF4;
   box-shadow: 8px 8px 20px 0px #97a7c3, -8px -8px 20px #ffffff;
@@ -136,13 +152,6 @@ body {
   background: #ECEFF4;
   box-shadow: 8px 8px 20px 0px #97a7c3, -8px -8px 20px #ffffff;
   border-color: rgba(255,255,255,0);
-  color: #193566;
-}
-
-.fab.fa-github.img-icon-info {
-  border-radius: 50%;
-  background: #ECEFF4;
-  box-shadow: 8px 8px 20px 0px #97a7c3, -8px -8px 20px #ffffff;
   color: #193566;
 }
 
