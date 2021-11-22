@@ -4,7 +4,7 @@
   z-index: 100;
   background: #ECEFF4;
   background-size: 100%;
-  width: 100%;
+  width: 100vh;
   height: 100%;
 }
 .loader{
